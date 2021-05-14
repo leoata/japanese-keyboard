@@ -1,0 +1,26 @@
+.mainContainer {
+    min-height: 100vh;
+    max-height: 100vh;
+}
+
+.textbox {
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: black;
+
+}
+
+.center {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.blue-box {
+    min-width: 142.5px;
+    max-width: 50%;
+    height: 100%;
+    display: inline;
+}
+
